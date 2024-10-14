@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="webAPI.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script type="module" src="/src/webAPI/scripts/teams.js"></script>
+    <link rel="icon" href="images/f1logo.png">
+    <title>Teams</title>
+</head>
+<body>
+<div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="webAPI.html">Home</a>
+  <a href="drivers.html">Drivers</a>
+  <a href="teams.html">Teams</a>
+  <a href="races.html">Races</a>
+  <a href="amateurDriver.html">Amateur Drivers</a>
+</div>
+
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; <img src="/images/f1logo.png" style="width:50px;"></span>
+    <section class="content">
+    <table class="table">
+        <thead>
+            <tr>
+            <th scope="col">Nøkkel</th>
+            <th scope="col">Type</th>
+            <th scope="col">Forklaring</th>
+            </tr>
+        </thead>
+
+        <h2>Teams</h2>
+        <tbody>
+            <tr>
+            <td>Id</td>
+            <td>Integer</td>
+            <td>Id'en til sjåføren</td>
+            </tr>
+            <tr>
+            <td>Rank</td>
+            <td>Integer</td>
+            <td>Plasseringen til teamet</td>
+            </tr>
+            <tr>
+            <td>TeamName</td>
+            <td>Text</td>
+            <td>Navenet til temet</td>
+            </tr>
+            <tr>
+            <td>Manufacture</td>
+            <td>Text</td>
+            <td>Bilprodusenten</td>
+            </tr>
+            <tr>
+            <td>Driver1</td>
+            <td>Text</td>
+            <td>Navnet på sjåfør 1</td>
+            </tr>
+            <tr>
+            <td>Driver2</td>
+            <td>Text</td>
+            <td>Navnet på sjåfør 2</td>
+            </tr>
+            <tr>
+            <td>Image</td>
+            <td>Text</td>
+            <td>Bilde på bilen</td>
+            </tr>
+            <tr>
+            <td>ImageLogo</td>
+            <td>Text</td>
+            <td>Bildet på logoen til laget</td>
+            </tr>
+        </tbody>
+        </table>
+    </section>
+    <main>
+      <div class="content-container">
+        <h5> GET https:://localhost:5187/api/teams</h5>
+        <p>Du kan nå en liste på alle teams ved å bruke /teams endepunktet.</p>
+        <section class="row g-5" id="endpoint-section"> Overskriver i JS her
+            </section>
+          </div>
+        </main>
+  
+  </body>
+  <script>
+    function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+  }
+  
+  function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+  }
+
+  </script>
+
+
+    
+</body>
+</html>

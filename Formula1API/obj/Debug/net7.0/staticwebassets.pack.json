@@ -1,0 +1,465 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/.DS_Store",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/.DS_Store"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/6c7fb25b-9219-4ddf-9f86-78eee26819e3-638364381396711550.jpeg",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/6c7fb25b-9219-4ddf-9f86-78eee26819e3-638364381396711550.jpeg"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/IMG_7540.jpeg",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/IMG_7540.jpeg"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/IMG_9350.jpeg",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/IMG_9350.jpeg"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/IMG_9351.jpeg",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/IMG_9351.jpeg"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/IMG_9357.jpeg",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/IMG_9357.jpeg"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/IMG_9359.jpeg",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/IMG_9359.jpeg"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/IMG_9360.jpeg",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/IMG_9360.jpeg"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/alfa.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/alfa.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/alpha.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/alpha.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/alpin.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/alpin.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/astonmartin.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/astonmartin.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/ferrari.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/ferrari.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/haas.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/haas.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/mclaren.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/mclaren.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/mercedes.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/mercedes.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/redbull.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/redbull.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/rolando.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/rolando.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Amateurdrivers_img/williams.png",
+      "PackagePath": "staticwebassets/images/Amateurdrivers_img/williams.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/.DS_Store",
+      "PackagePath": "staticwebassets/images/Cars_img/.DS_Store"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/Alfa Romeo.png",
+      "PackagePath": "staticwebassets/images/Cars_img/Alfa Romeo.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/Alpha Tauri.png",
+      "PackagePath": "staticwebassets/images/Cars_img/Alpha Tauri.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/Alpine.png",
+      "PackagePath": "staticwebassets/images/Cars_img/Alpine.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/Aston Martin.png",
+      "PackagePath": "staticwebassets/images/Cars_img/Aston Martin.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/Ferrari.png",
+      "PackagePath": "staticwebassets/images/Cars_img/Ferrari.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/Haas.png",
+      "PackagePath": "staticwebassets/images/Cars_img/Haas.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/Mclaren.png",
+      "PackagePath": "staticwebassets/images/Cars_img/Mclaren.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/Mercedes.png",
+      "PackagePath": "staticwebassets/images/Cars_img/Mercedes.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/No Floor Shadow/Alfa-Romeo.png",
+      "PackagePath": "staticwebassets/images/Cars_img/No Floor Shadow/Alfa-Romeo.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/No Floor Shadow/AlphaTauri.png",
+      "PackagePath": "staticwebassets/images/Cars_img/No Floor Shadow/AlphaTauri.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/No Floor Shadow/Alpine.png",
+      "PackagePath": "staticwebassets/images/Cars_img/No Floor Shadow/Alpine.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/No Floor Shadow/Aston-Martin.png",
+      "PackagePath": "staticwebassets/images/Cars_img/No Floor Shadow/Aston-Martin.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/No Floor Shadow/Ferrari.png",
+      "PackagePath": "staticwebassets/images/Cars_img/No Floor Shadow/Ferrari.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/No Floor Shadow/Haas.png",
+      "PackagePath": "staticwebassets/images/Cars_img/No Floor Shadow/Haas.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/No Floor Shadow/Mclaren.png",
+      "PackagePath": "staticwebassets/images/Cars_img/No Floor Shadow/Mclaren.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/No Floor Shadow/Mercedes.png",
+      "PackagePath": "staticwebassets/images/Cars_img/No Floor Shadow/Mercedes.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/No Floor Shadow/Red-Bull.png",
+      "PackagePath": "staticwebassets/images/Cars_img/No Floor Shadow/Red-Bull.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/No Floor Shadow/Williams.png",
+      "PackagePath": "staticwebassets/images/Cars_img/No Floor Shadow/Williams.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/Red Bull Racing.png",
+      "PackagePath": "staticwebassets/images/Cars_img/Red Bull Racing.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Cars_img/Williams.png",
+      "PackagePath": "staticwebassets/images/Cars_img/Williams.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/.DS_Store",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/.DS_Store"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Alexander Albon.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Alexander Albon.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Carlos Sainz.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Carlos Sainz.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Charled Leclerc.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Charled Leclerc.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Daniel Ricciardo.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Daniel Ricciardo.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Esteban Ocon.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Esteban Ocon.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Fernando Alonso.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Fernando Alonso.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/George Russell.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/George Russell.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Kevin Magnussen.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Kevin Magnussen.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Lance Stroll.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Lance Stroll.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Lando Norris.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Lando Norris.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Lewis Hamilton.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Lewis Hamilton.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Liam Lawson.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Liam Lawson.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Logan Sargeant.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Logan Sargeant.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Max Verstappen.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Max Verstappen.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Nico Hulkenberg.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Nico Hulkenberg.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Nyck DeVries.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Nyck DeVries.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Oscar Piastri.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Oscar Piastri.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Pierre Gasly.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Pierre Gasly.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Sergio Perez.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Sergio Perez.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Valtteri Bottas.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Valtteri Bottas.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Yuki Tsunoda.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Yuki Tsunoda.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/DriversForTeam_img/Zhou Guanyu.png",
+      "PackagePath": "staticwebassets/images/DriversForTeam_img/Zhou Guanyu.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/.DS_Store",
+      "PackagePath": "staticwebassets/images/Drivers_img/.DS_Store"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/AlexanderAlbon.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/AlexanderAlbon.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/CarlosSainz.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/CarlosSainz.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/CharlesLeclerc.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/CharlesLeclerc.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/DanielRicciardo.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/DanielRicciardo.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/EstebanOcon.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/EstebanOcon.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/FernandoAlonso.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/FernandoAlonso.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/GeorgeRussell.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/GeorgeRussell.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/KevinMagnussen.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/KevinMagnussen.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/LanceStroll.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/LanceStroll.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/LandoNorris.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/LandoNorris.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/LewisHamilton.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/LewisHamilton.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/LiamLawson.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/LiamLawson.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/LoganSergeant.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/LoganSergeant.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/MaxVerstappen.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/MaxVerstappen.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/NicoHulkenberg.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/NicoHulkenberg.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/NyckDeVries.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/NyckDeVries.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/OscarPiastri.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/OscarPiastri.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/PierreGasly.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/PierreGasly.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/SergioPerez.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/SergioPerez.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/ValtteriBottas.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/ValtteriBottas.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/YukiTsunoda.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/YukiTsunoda.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Drivers_img/ZhouGuanyu.png",
+      "PackagePath": "staticwebassets/images/Drivers_img/ZhouGuanyu.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/IMG_9360.jpeg",
+      "PackagePath": "staticwebassets/images/IMG_9360.jpeg"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/.DS_Store",
+      "PackagePath": "staticwebassets/images/Logo_img/.DS_Store"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/Alfa Romeo.png",
+      "PackagePath": "staticwebassets/images/Logo_img/Alfa Romeo.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/Alpha Tauri.png",
+      "PackagePath": "staticwebassets/images/Logo_img/Alpha Tauri.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/Alpine.png",
+      "PackagePath": "staticwebassets/images/Logo_img/Alpine.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/Aston Martin.png",
+      "PackagePath": "staticwebassets/images/Logo_img/Aston Martin.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/F1Logo.png",
+      "PackagePath": "staticwebassets/images/Logo_img/F1Logo.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/Ferrari.png",
+      "PackagePath": "staticwebassets/images/Logo_img/Ferrari.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/Haas.png",
+      "PackagePath": "staticwebassets/images/Logo_img/Haas.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/McLaren.png",
+      "PackagePath": "staticwebassets/images/Logo_img/McLaren.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/Mercedes.png",
+      "PackagePath": "staticwebassets/images/Logo_img/Mercedes.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/Red Bull Racing.png",
+      "PackagePath": "staticwebassets/images/Logo_img/Red Bull Racing.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/Logo_img/Williams.png",
+      "PackagePath": "staticwebassets/images/Logo_img/Williams.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/frontPage/.DS_Store",
+      "PackagePath": "staticwebassets/images/frontPage/.DS_Store"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/frontPage/frontpage1.png",
+      "PackagePath": "staticwebassets/images/frontPage/frontpage1.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/frontPage/frontpage7.png",
+      "PackagePath": "staticwebassets/images/frontPage/frontpage7.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/frontPage/frontpage8.png",
+      "PackagePath": "staticwebassets/images/frontPage/frontpage8.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/frontPage/l.png",
+      "PackagePath": "staticwebassets/images/frontPage/l.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/frontPage/ticketssale.png",
+      "PackagePath": "staticwebassets/images/frontPage/ticketssale.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/gameCars/car1.png",
+      "PackagePath": "staticwebassets/images/gameCars/car1.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/gameCars/car2.png",
+      "PackagePath": "staticwebassets/images/gameCars/car2.png"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/gameCars/racingfield.jpg",
+      "PackagePath": "staticwebassets/images/gameCars/racingfield.jpg"
+    },
+    {
+      "Id": "/Users/hannaheilertsen/Dropbox/Mac/Documents/HK/H23/Webutvikling/Eksamen/H&M/Formula1API/wwwroot/images/gameCars/rolando3.png",
+      "PackagePath": "staticwebassets/images/gameCars/rolando3.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Formula1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Formula1.props",
+      "PackagePath": "build\\Formula1.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Formula1.props",
+      "PackagePath": "buildMultiTargeting\\Formula1.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Formula1.props",
+      "PackagePath": "buildTransitive\\Formula1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

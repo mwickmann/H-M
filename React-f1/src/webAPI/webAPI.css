@@ -1,0 +1,122 @@
+@font-face {
+  font-family: Formula1-Black;
+  src: url(../Fonts-F1/Formula1-Black.ttf) format('truetype');
+}
+@font-face {
+  font-family: Formula1-Bold;
+  src: url(./Fonts-F1/Formula1-Bold_web.ttf) format('truetype');
+}
+@font-face {
+  font-family: Formula1-Bold-4;
+  src: url(./Fonts-F1/Formula1-Bold-4.ttf) format('truetype');
+}
+@font-face {
+  font-family: Formula1-Italic;
+  src: url(./Fonts-F1/Formula1-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: Formula1-Regular;
+  src: url(../../Fonts-F1/Formula1-Regular-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: Formula1-Wide;
+  src: url(./Fonts-F1/Formula1-Wide.ttf) format('truetype');
+}
+/* .navbar{
+    background-color: #ff1801;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+} */
+span {
+  font-family: Formula1-Regular;
+}
+img {
+  width: 400px;
+  margin: 10px;
+  border-radius: 5%;
+}
+h2 {
+  font-family: Formula1-Regular;
+}
+h5 {
+  font-family: Formula1-Regular;
+}
+.fp-font {
+  font-family: Formula1-Regular;
+}
+.fp-font:hover {
+font-size: 1.5rem;
+color: red;
+cursor: pointer;
+}
+.img-fluid {
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Legg til hover-effekten */
+.img-fluid:hover {
+  transform: scale(1.1);
+}
+
+#custom-card {
+  border: 2px solid #ced4da; /* Endre her for å justere tykkelsen og fargen på rammen */
+  border-radius: 8px; /* For å runde av hjørnene av rammen */
+}
+.content-container {
+  padding: 45px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  font-family: Formula1-Regular;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.content{
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+.row-main{
+    font-weight: 700;
+}
+.row{
+    padding: 1rem;
+}

@@ -1,0 +1,426 @@
+
+@font-face {
+  font-family: Formula1-Black;
+  src: url(./Fonts-F1/Formula1-Black.ttf) format('truetype');
+}
+@font-face {
+  font-family: Formula1-Bold;
+  src: url(./Fonts-F1/Formula1-Bold_web.ttf) format('truetype');
+}
+@font-face {
+  font-family: Formula1-Bold-4;
+  src: url(./Fonts-F1/Formula1-Bold-4.ttf) format('truetype');
+}
+@font-face {
+  font-family: Formula1-Italic;
+  src: url(./Fonts-F1/Formula1-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: Formula1-Regular;
+  src: url(./Fonts-F1/Formula1-Regular-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: Formula1-Wide;
+  src: url(./Fonts-F1/Formula1-Wide.ttf) format('truetype');
+}
+
+/* .container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 10em;
+} */
+
+/*---------- Banner -----------*/
+nav {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  background-color: #ff1801; /* Bakgrunnsfarge for menybaren */
+  /* padding: 1rem; Tilpass padding etter behov */
+}
+.container-menu {
+  display: flex;
+  gap: 15rem; /* Juster rommet mellom linkene etter behov */
+  align-items: center; /* Sentrerer elementene vertikalt */
+}
+ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+a:hover {
+  color: black; /* Farge ved hover over linkene */
+  border-bottom: #1a1a1a;
+}
+
+
+a {
+  text-decoration: none;
+  color: white; 
+  font-weight: bold;
+  position: relative;
+  transition: color 0.3s;
+  font-family: 'Formula1-Regular', sans-serif;
+}
+
+
+a:after {
+  content: '';
+  position: absolute;
+  width: 100%; 
+  height: 2px; 
+  background-color: black; 
+  bottom: 0;
+  left: 0; 
+  border-radius: 0 0.5em 0.5em 0; 
+  transform: scaleX(0); 
+  transform-origin: right;
+  transition: transform 0.3s;
+}
+
+a:hover:after {
+  transform: scaleX(1); 
+}
+/*---------- End Banner -----------*/
+.search-txt{
+  font-family: 'Formula1-Regular', sans-serif;
+}
+
+/*------ Drivers Card ---------*/
+.card.hovered {
+  border: 2px solid red; /* Juster grensen etter behov */
+}
+hr.solid {
+  border-top: 3px solid #bbb;
+  margin: 0;
+  margin-bottom: 1rem;
+}
+.vertical-line {
+  width: 1rem;
+  height: 1.5rem;
+  border-left: 5px solid #bbb; /* Juster tykkelse og farge etter behov */
+  /* position: absolute; */
+  left: 50%; /* Plasserer linjen til venstre for elementet */
+}
+.vertical-line.hovered{
+  border-left: 5px solid red; /* Juster tykkelse og farge etter behov */
+}
+.name-container{
+  display: flex;
+}
+.container-numbers-driver {
+  display: flex;
+  justify-content: space-between; /* Plasserer elementene ved siden av hverandre med mellomrom */
+  align-items: center; /* Sentrerer elementene vertikalt */
+}
+
+.rank-number{
+  font-family: 'Formula1-Black', sans-serif;
+  font-size: 3rem;
+}
+.points{
+  font-family: 'Formula1-Wide', sans-serif;
+  margin-top: 8px;
+}
+.PTS{
+  background-color: black;
+  color: whitesmoke;
+  size:x-small;
+}
+.driver-name{
+  font-family: 'Formula1-Bold-4', sans-serif;
+}
+.nationality-driver{
+  font-family: 'Formula1-Regular';
+}
+.team-driver{
+  font-family: 'Formula1-Regular';
+  color: gray;
+}
+
+.p-3 border.rounded{
+  padding-top: 1px;
+}
+.card{
+  background-color: whitesmoke;
+}
+/*------ End Drivers Card ---------*/
+
+
+
+/*------ Teams Card ---------*/
+.logo-img{
+  height: 5rem;
+}
+
+.container-teams{
+  display: flex;
+   justify-content: space-between; /* Plasserer elementene ved siden av hverandre med mellomrom */
+   align-items: center; /* Sentrerer elementene vertikalt */
+  
+}
+.teams-teamName {
+  margin-right: 5px; 
+  font-family: 'Formula1-Bold', sans-serif;
+}
+
+.driverX-name{
+  font-family: 'Formula1-Regular', sans-serif;
+  font-size: x-small;
+}
+
+.driveX-img {
+  max-width: 4rem;
+  max-height: auto;
+}
+
+.container-drivers-teams {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*------- End Teams --------*/
+
+
+/*-------Races --------*/
+
+section {
+  /* justify-content: center; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+.race-track {
+    width: 1700px;
+    position: relative;
+    display: block;
+    margin-top: 5rem;
+    margin-left: -38rem;
+    z-index: 1; 
+  }
+  .car-1 {
+    position: absolute;
+    width: 200px;
+    top: 450px;
+    left: 50px;
+    /* // Bil 1 på toppen av banen / */
+    z-index: 2; 
+  }
+
+  .car-2 {
+    position: absolute;
+    width: 200px;
+    top: 700px;
+    left: 50px;
+    /* / Bil 2 på toppen av bil 1 / */
+    z-index: 3; 
+  }
+
+  .car3 {
+    position: absolute;
+    width: 300px;
+    /* / Bil 3 på toppen av bil 2 / */
+    z-index: 4; 
+  }
+button {
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    justify-content: center;
+}
+.winner-message {
+   margin-top: -3rem;
+   position: absolute;
+   font-size: 20px;
+}
+th{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.race-title{
+  font-family: 'Formula1-Regular', sans-serif;
+}
+/*------- End TeRacesams --------*/
+
+/*--------- Image Carousel ------*/
+.carousel {
+    opacity: 0.9;
+    border-radius: 2%;
+
+}
+
+.carousel .slide {
+    border-radius: 2%;
+
+}
+.carousel-button-prev,
+.carousel-button-next {
+  background-color: #fff; /* Bakgrunnsfarge for knappene */
+  color: #fff1f1; /* Tekstfarge for knappene */
+  border: 1px solid #ffffff; /* Ramme rundt knappene */
+  border-radius: 50%; /* Gjør knappene runde */
+  padding: 8px; /* Tilpasse padding etter behov */
+  font-size: 16px; /* Størrelsen på teksten */
+  cursor: pointer; /* Endre musepekeren til en håndpekende markør */
+  /* Legg til andre ønskede stiler for knappene */
+}
+
+.carousel-button-prev:hover,
+.carousel-button-next:hover {
+  background-color: #fff3f3; /* Bakgrunnsfarge for knappene ved hover */
+  color: #fff; /* Tekstfarge for knappene ved hover */
+  /* Legg til andre ønskede hover-stiler for knappene */
+}
+
+#countdown-section{
+  font-size: 1rem;
+  font-family: 'Formula1-regular';
+}
+ .mainPageBanner{
+  padding-left: 3rem;
+  padding-right: 3rem;
+ }
+
+ .modal {
+  /*Opprinnelig stil for å skjule modalen */
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.0);
+}
+.modal.show {
+  display: block; /* Viser modalfanen når klassen 'show' legges til */
+}
+/* Resten av stilene for .modal-content forblir uendret */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+  justify-content: space-between;
+  max-width: 600px;
+  border-radius: 8px;
+  position: relative;
+}
+input {
+  margin-bottom: 10px; /* Legger til mellomrom under hver input */
+  padding: 8px; /* Legger til padding rundt hver input */
+}
+input[type='text'] {
+  margin-bottom: 10px; /* Legg til ønsket avstand mellom tekstboksene */
+  padding: 8px; /* Legg til padding rundt tekstboksene for å gi dem litt plass */
+}
+select {
+  margin-bottom: 10px; /* Legger til mellomrom under hver select (dropdown-meny) */
+  padding: 8px; /* Legger til padding rundt hver select */
+}
+
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .registered-message {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+  }
+/*--------- End Image Carousel ------*/
+
+:root {
+  font-family: 'Formula1', sans-serif; /*Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;*/
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+
+body {
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  justify-content: center;
+  /*font-family:'Formula1', sans-serif ;*/
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  font-family: 'Formula1-Regular';
+}
+
+h4{
+  font-family: 'Formula1-Regular';
+}
+#btn-signup{
+  margin-right: 3rem;
+  width: 15rem;
+}
+#btn-seeregister{
+  width: 15rem;
+}
+.button-container{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #1a1a1a;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  /* a:hover {
+    color: #1a1a1a;
+  } */
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+
+
